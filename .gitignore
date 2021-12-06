@@ -1,3 +1,9 @@
+#.DS.Store
+.DS.Store 
+
+#config.py
+.config.py
+
 # History files
 .Rhistory
 .Rapp.history
